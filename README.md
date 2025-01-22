@@ -1,7 +1,3 @@
-Here's a draft for your GitHub README file:
-
----
-
 # Drawly ✏️  
 **Drawly** is a modern, interactive web-based drawing tool inspired by Excalidraw. Whether you’re brainstorming, diagramming, or just doodling, Drawly offers a sleek and intuitive platform for visualizing your ideas.
 
@@ -32,17 +28,7 @@ Here's a draft for your GitHub README file:
 3. Start the development server:  
    ```bash
    npm start
-   ```  
-
-## Demo  
-Try it live at [Drawly](https://your-live-demo-link.com).
-
+   ```
+   
 ## Contributing  
 Contributions are welcome! Feel free to submit issues or pull requests.  
-
-## License  
-This project is licensed under the MIT License.
-
----
-
-Let me know if you'd like further edits or want to include specific details like screenshots, credits, or additional features.
