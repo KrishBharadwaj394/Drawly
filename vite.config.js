@@ -1,4 +1,3 @@
-import fs from 'fs';
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
@@ -14,5 +13,6 @@ export default defineConfig({
       protocol: 'ws',
       host: 'localhost',
     },
+    allowedHosts: ['drawly.onrender.com'], // Allow your domain
   },
 });
