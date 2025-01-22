@@ -8,11 +8,11 @@ export default defineConfig({
     'process.env': {},
   },
   server: {
-    host: 'localhost',
-    port: 5173, // or the port you're using
+    host: '0.0.0.0', // Bind to all interfaces
+    port: 5173, // Or the port you're using
     hmr: {
       protocol: 'ws',
       host: 'localhost',
-    },
-  },
+    },
+  },
 });
