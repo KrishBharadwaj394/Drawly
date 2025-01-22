@@ -15,20 +15,31 @@ Drawly is a powerful, web-based drawing tool designed to bring your ideas to lif
 - **Vite**: For fast development and optimized production builds.  
 - **CSS**: For styling and layout customization.  
 
+Here’s the updated **Installation** section with the `cd Drawly` command as a separate step:
+
+---
+
 ## Installation  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/KrishBharadwaj394/Drawly.git
+   ```  
+
+2. Navigate to the project directory:  
+   ```bash
    cd Drawly
    ```  
-2. Install dependencies:  
+
+3. Install dependencies:  
    ```bash
    npm install
-   ```  
-3. Start the development server:  
+   ```
+   
+4. Start the development server:  
    ```bash
    npm run dev
    ```
+--- 
    
 ## Contributing  
 Contributions are welcome! Feel free to submit issues or pull requests.  
