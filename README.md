@@ -13,10 +13,8 @@ Drawly is a powerful, web-based drawing tool designed to bring your ideas to lif
 - **React JS**: For building a dynamic and responsive user interface.  
 - **Excalidraw**: Integrated as a core dependency for powerful drawing and diagramming features.  
 - **Vite**: For fast development and optimized production builds.  
-- **CSS**: For styling and layout customization.  
-
-Here’s the updated **Installation** section with the `cd Drawly` command as a separate step:
-
+- **CSS**: For styling and layout customization.
+  
 ---
 
 ## Installation  
