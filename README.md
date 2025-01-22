@@ -11,9 +11,9 @@
 
 ## Technologies Used  
 - **React JS**: For building a dynamic and responsive user interface.  
-- **Canvas API**: To power the drawing capabilities.  
-- **Tailwind CSS**: For modern, customizable styles.  
-- **Framer Motion** (Optional): For animations, if applicable.  
+- **Excalidraw**: Integrated as a core dependency for powerful drawing and diagramming features.  
+- **Vite**: For fast development and optimized production builds.  
+- **CSS**: For styling and layout customization.  
 
 ## Installation  
 1. Clone the repository:  
