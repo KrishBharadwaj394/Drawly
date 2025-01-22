@@ -18,8 +18,8 @@ Drawly is a powerful, web-based drawing tool designed to bring your ideas to lif
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/drawly.git
-   cd drawly
+   git clone https://github.com/KrishBharadwaj394/Drawly.git
+   cd Drawly
    ```  
 2. Install dependencies:  
    ```bash
@@ -27,7 +27,7 @@ Drawly is a powerful, web-based drawing tool designed to bring your ideas to lif
    ```  
 3. Start the development server:  
    ```bash
-   npm start
+   npm run dev
    ```
    
 ## Contributing  
