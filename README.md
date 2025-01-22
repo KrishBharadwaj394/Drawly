@@ -1,12 +1,12 @@
 # Drawly ✏️  
-**Drawly** is a modern, interactive web-based drawing tool inspired by Excalidraw. Whether you’re brainstorming, diagramming, or just doodling, Drawly offers a sleek and intuitive platform for visualizing your ideas.
+Drawly is a powerful, web-based drawing tool designed to bring your ideas to life. Whether you're brainstorming, sketching, or crafting detailed diagrams, Drawly combines simplicity with versatility to deliver a seamless and intuitive drawing experience.
 
 ## Features  
 - 🖌️ **Freehand Drawing**: Create smooth, natural lines with precision.  
 - 📏 **Shapes and Tools**: Use pre-made shapes like rectangles, circles, arrows, and more.  
 - 🔄 **Undo/Redo**: Seamlessly correct mistakes or revisit changes.  
 - 🎨 **Customizable Colors**: Choose from a vibrant palette to make your creations stand out.  
-- 📋 **Export/Share**: Save your drawings or share them directly with others.  
+- 📋 **Export**: Save your drawings.
 - 🌐 **Web-Based**: Access Drawly from any device with a browser.
 
 ## Technologies Used  
