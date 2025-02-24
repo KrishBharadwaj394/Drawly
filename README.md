@@ -20,7 +20,7 @@ Drawly is a powerful, web-based drawing tool designed to bring your ideas to lif
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/KrishBharadwaj394/Drawly.git
+   git clone https://github.com/KrishBharadwaj5678/Drawly.git
    ```  
 
 2. Navigate to the project directory:  
